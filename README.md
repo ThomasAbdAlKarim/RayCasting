@@ -47,7 +47,7 @@ Map = [ [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],
         [1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1],
         [1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1]]
 </pre>
-this is not the full map off course you coud do up to 32x32 with a grid size of  16
-dependencies:
-numpy
+this is not the full map off course you coud do up to 32x32 with a grid size of  16<br />
+dependencies:<br />
+numpy<br />
 pygame
