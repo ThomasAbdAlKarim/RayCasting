@@ -1,5 +1,5 @@
 # RayCasting
-This is a Ray Casting Rendering With Map Drawing
+This is a Ray Casting Rendering With Map Drawing you can walk and rotate with the arrows 
 
 To Draw the map, you can draw it While it's running on the 2D Map on the left Side of the screen by left clicking to add a Cube and right clicking to remove one or you could put a Cube with a different color by using the middle button.
 You could also initialize the map in the code by changing the Array Map, a 1 means a wall, a 0 means nothing<br />
