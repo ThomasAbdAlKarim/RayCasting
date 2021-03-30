@@ -354,7 +354,7 @@ def main():
                 Ang += 0.5*(np.pi/180)
                 View.append(V)
                 if not Coll:
-                    if V[1] < 15:
+                    if V[1] < 17:
                         CanMove = False
                         Coll = True
                     else:
